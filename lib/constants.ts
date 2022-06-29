@@ -45,11 +45,11 @@ export const NAVIGATION = [
     route: '/stage/a'
   },
   {
-    name: 'Vercel Stage',
+    name: 'Triple C Stage',
     route: '/stage/c'
   },
   {
-    name: '100ms Stage',
+    name: 'Web 3 Factory',
     route: '/stage/m'
   },
   {
