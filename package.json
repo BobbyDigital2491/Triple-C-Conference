@@ -1,10 +1,10 @@
 {
-  "name": "virtual-event-starter-kit",
-  "description": "Starter kit for your virtual event.",
+  "name": "Triple C Conference Center",
+  "description": "Learn Web 3 and Crypto.",
   "private": true,
-  "repository": "vercel/virtual-event-starter-kit",
-  "author": "Vercel Inc.",
-  "homepage": "https://demo.vercel.events",
+  "repository": "https://github.com/BobbyDigital2491/triple-c-Conference",
+  "author": "Sokoni Inc.",
+  "homepage": "https://triple-c-conference.vercel.app/",
   "license": "Apache-2.0",
   "engines": {
     "node": ">=12"
