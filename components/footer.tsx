@@ -27,7 +27,7 @@ export function HostedByVercel() {
       target="_blank"
       rel="noopener noreferrer"
     >
-      <div className={styles['secondary-text']}>Created by Created by Sokoni </div>
+      <div className={styles['secondary-text']}>Created by Sokoni </div>
       
     </a>
   );
