@@ -1,7 +1,7 @@
 {
   "name": "Triple C Conference Center",
   "description": "Learn Web 3 and the Furture of Finance.",
-  "previewImage": "https://demo.vercel.events/twitter-card.png",
+  "previewImage": "https://scontent.fewr1-5.fna.fbcdn.net/v/t1.6435-9/200087687_10165279094295383_4992579542482853141_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=8631f5&_nc_ohc=GWYoXA_VF3EAX-QY0L7&_nc_ht=scontent.fewr1-5.fna&oh=00_AT8wAhCP1zlI1YlMo6a38H1PBeLUYEmjcpCBUWx913KccQ&oe=62E4B5A2",
   "datocmsProjectId": "37685",
   "deploymentType": "vercel",
   "vercelIntegrationIds": ["oac_7yeSwUoVR5no3SlA9WM6oR7l"],
