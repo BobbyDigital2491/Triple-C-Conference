@@ -1,2 +1,2 @@
-Welcome to Triple C Conference center
+## Welcome to Triple C Conference Center
 Created with Next js
