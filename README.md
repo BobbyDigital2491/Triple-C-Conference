@@ -1,2 +1,3 @@
 ## Welcome to Triple C Conference Center
-Learn web 3 and the future of finace
+<br/>
+Learn Web 3 and the future of finance
