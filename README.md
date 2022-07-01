@@ -2,4 +2,4 @@
 <br/>
 ### Learn Web 3 and the future of finance
 <br/>
-Created iwth Next JS
+Created with Next JS
