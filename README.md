@@ -1,2 +1,2 @@
 ## Welcome to Triple C Conference Center
-Created with Next js
+Learn web 3 and the future of finace
