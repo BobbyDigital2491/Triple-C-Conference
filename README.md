@@ -4,6 +4,6 @@
 <br/>
 <br/>
 <br/>
-Triple C
+Triple C Conference
 <br/>
 Created with Next JS
