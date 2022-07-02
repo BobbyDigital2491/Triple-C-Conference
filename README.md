@@ -4,6 +4,6 @@
 <br/>
 <br/>
 <br/>
-Triple
+Triple C
 <br/>
 Created with Next JS
