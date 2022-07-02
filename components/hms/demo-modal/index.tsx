@@ -62,7 +62,7 @@ const DemoModal = () => {
           </div>
         ))}
         <div className="flex items-center justify-center mt-4 ">
-          Powered by <HmsLogo />
+          Powered by Sokoni
         </div>
       </div>
     </div>
