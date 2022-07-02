@@ -4,6 +4,6 @@
 <br/>
 <br/>
 <br/>
-Triple C Conference Center is a place to host meetings and
+Triple C Conference Center is a place to host meetings and live
 <br/>
 Created with Next JS
