@@ -4,6 +4,6 @@
 <br/>
 <br/>
 <br/>
-Triple C Conference Center is
+Triple C Conference Center is a
 <br/>
 Created with Next JS
