@@ -4,7 +4,7 @@
 <br/>
 <br/>
 <br/>
-Triple C Conference Center is a place to host meetings and live events
+Triple C University is a place to learn about Web 3 and the future of finance
 <br/>
 <br/>
 Created with Next JS
