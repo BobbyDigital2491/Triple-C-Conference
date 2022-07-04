@@ -8,3 +8,4 @@ Triple C University is a place to learn about Web 3 and the future of finance. T
 <br/>
 <br/>
 Created with Next JS
+![Triple C Logo](https://user-images.githubusercontent.com/100319461/177217182-929839a7-39e1-4c29-88f5-51def22df7bc.JPG)
