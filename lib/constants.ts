@@ -18,8 +18,8 @@ export const SITE_URL = 'https://triple-c-conference.vercel.app/';
 export const SITE_ORIGIN = process.env.NEXT_PUBLIC_SITE_ORIGIN || new URL(SITE_URL).origin;
 export const TWITTER_USER_NAME = 'triple c';
 export const BRAND_NAME = 'Triple C';
-export const SITE_NAME_MULTILINE = ['Triple C', 'Conf'];
-export const SITE_NAME = 'Triple C Conference Center';
+export const SITE_NAME_MULTILINE = ['Triple C', 'Univ'];
+export const SITE_NAME = 'Triple C University';
 export const META_DESCRIPTION =
   'Learn about Web 3 and Crypto.';
 export const SITE_DESCRIPTION =
