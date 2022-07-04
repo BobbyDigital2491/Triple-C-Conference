@@ -1,4 +1,4 @@
-## Welcome to Triple C Conference Center
+## Welcome to Triple University
 <br/>
 ### Learn Web 3 and the future of finance
 <br/>
