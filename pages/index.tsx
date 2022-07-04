@@ -24,7 +24,7 @@ import { META_DESCRIPTION } from '@lib/constants';
 export default function Conf() {
   const { query } = useRouter();
   const meta = {
-    title: 'Triple C Conference Center',
+    title: 'Triple C University',
     description: META_DESCRIPTION
   };
   const ticketNumber = query.ticketNumber?.toString();
