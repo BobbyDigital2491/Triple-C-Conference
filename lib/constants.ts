@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-export const SITE_URL = 'Triple C University';
+export const SITE_URL = 'https://triple-c-conference.vercel.app/';
 export const SITE_ORIGIN = process.env.NEXT_PUBLIC_SITE_ORIGIN || new URL(SITE_URL).origin;
 export const TWITTER_USER_NAME = 'triple c';
 export const BRAND_NAME = 'Triple C';
