@@ -68,7 +68,7 @@ export const PreviewScreen: React.FC<{ token: string }> = ({ token }) => {
           </p>
           <div className="flex space-x-4">
             <Button variant="secondary" onClick={() => router.push('/')}>
-              Go back
+              Go Back
             </Button>
             <Button disabled={!enableJoin} type="submit">
               Join Stage <ArrowRightIcon />
